@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: ChatPanel
+## Version: 1.0.0
+## Author: MrFrozzen
+## Notes: Chat Faster
+## SavedVariablesPerCharacter: QC_Point, QC_Settings
+
+Locales\locales.xml
+ChatPanel.lua
